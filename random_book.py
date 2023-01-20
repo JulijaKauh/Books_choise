@@ -6,7 +6,6 @@ books = [['The Paris Apartment', 'mystery'],
          ['The Huntress', 'suspense'],
          ['A Good Girls Guide to Murder', 'crime']]
 
-print a random book from books
 print("What genre do you like to read?")
 genre = input()
 for i in books:

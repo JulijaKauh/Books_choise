@@ -1,5 +1,5 @@
 
-books = [["mystery", "The Paris Apartment", "aaa", "bbb", "ccc", "ddd", "eee"],
+books = [["mystery", "The Paris Apartment"],
          ["thriller", "Seven Days"],
          [ "fiction", "It Ends with Us"],
          ["suspense", "The Huntress"],

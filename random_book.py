@@ -8,5 +8,5 @@ books = [["mystery", "The Paris Apartment"],
 print("What genre do  you want  to read?")
 genre = input()
 for i in books:
-    if i[1] == genre:
-        print('Genre: ' + genre + '.' + ' Book: ' + i[0] + '.')
+    if i[0] == genre:
+        print('Genre: ' + genre + '.' + ' Book: ' + i[1] + '.')

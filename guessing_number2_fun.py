@@ -18,7 +18,7 @@ def guessing_game():
             if guessing == 0:
                 print("You got it at first attempt!")
             else:
-                print("You got it in {} guesses!".format(secret_number))
+                print("You got it in {} guesses!".format(guessing))
             break
         elif user_number > secret_number:
             print("Too high!")
